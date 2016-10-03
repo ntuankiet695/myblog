@@ -4,7 +4,7 @@
 
 Danh sách sinh viên: **Nguyễn Tuấn Kiệt-1312305**
 
-URL: **Insert your Heroku URL here**
+URL: **https://lit-taiga-45300.herokuapp.com/**
 
 ## Chức năng
 
