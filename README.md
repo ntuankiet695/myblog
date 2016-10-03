@@ -10,17 +10,17 @@ URL: **https://lit-taiga-45300.herokuapp.com/**
 
 Danh sách chức năng **bắt buộc**:
 
-* [ ] Người dùng có thể tạo bài blog mới.
-* [ ] Người dùng có thể cập nhật lại nội dung bài blog.
-* [ ] Người dùng có thể thêm comment vào các bài đăng.
+* Người dùng có thể tạo bài blog mới.
+* Người dùng có thể cập nhật lại nội dung bài blog.
+* Người dùng có thể thêm comment vào các bài đăng.
 
 Danh sách chức năng **phụ**:
 
-* [ ] Người dùng có thể xóa các bài đã đăng và có hiện câu hỏi yêu cầu xác nhận lại trước khi xóa.
+* Người dùng có thể xóa các bài đã đăng và có hiện câu hỏi yêu cầu xác nhận lại trước khi xóa.
 
 Danh sách chức năng **thêm** đã làm nhưng chưa được liệt kê ở trên:
 
-* [ ] Người dùng có thể đăng nhập với Facebook.
+* Người dùng có thể đăng nhập với Facebook.
 
 Danh sách chức năng **phụ** đã làm nhưng không được liệt kê ở trên:
 * [ ] Xóa comments.
